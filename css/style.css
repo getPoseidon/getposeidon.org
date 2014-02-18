@@ -1,0 +1,32 @@
+body {
+    font-family:"Open Sans", sans;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family:"Josefin Sans", sans;
+    color: #1e1766;
+    font-weight:bold;
+}
+.err {
+    color:#FF4136;
+    font-weight: bold;
+}
+.succ {
+    color:#2ECC40;
+    font-weight: bold;
+}
+html, body {
+    height: 100%;
+}
+body {
+    font-weight: 300;
+}
+header, p {
+    padding: 20px 0;
+}
+footer {
+    padding: 20px 0;
+    border-top: 1px solid #3fa9f5;
+}
+i {
+    font-size:30px;
+}
